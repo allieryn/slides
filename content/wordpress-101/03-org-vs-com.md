@@ -3,4 +3,4 @@ outputs = ["Reveal"]
 weight = 4 
 +++
 
-# 03 - WordPress.org vs WordPress.com 
+# WordPress.org vs WordPress.com 
